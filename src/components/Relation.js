@@ -60,6 +60,7 @@ const Relation = () => {
             setRelationshipStatus("");
       }
    };
+   
 
    const handleClear = () => {
       setName1("");
